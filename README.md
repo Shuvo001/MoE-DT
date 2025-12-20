@@ -1,4 +1,4 @@
-# MoE-DT: Mixture-of-Experts Guided Dual Transformer for Medical Image Segmentation.
+# MoE-DT: Mixture-of-Experts Guided Dual Transformer for Multi-Scale Medical Image Segmentation.
 
-** Currently under review at International Symposium on Biomedical Imaging (ISBI)-2026
+** Currently under review at Medical Imaging with Deep Learning (MIDL)-2026
 
